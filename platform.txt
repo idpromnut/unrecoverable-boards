@@ -1,0 +1,6 @@
+
+# Unrecoverable.org AVR Core and platform
+# ---------------------------------------
+
+name=Unrecoverable.org AVR Boards
+version=1.0.0

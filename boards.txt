@@ -1,0 +1,23 @@
+
+##############################################################
+
+644.name=Unrecoverable.org 644duino
+644.upload.tool=arduino:avrdude
+644.upload.protocol=arduino
+644.upload.maximum_size=63488
+644.upload.speed=115200
+644.upload.wait_for_upload_port=true
+
+644.bootloader.tool=arduino:avrdude
+644.bootloader.low_fuses=0xff
+644.bootloader.high_fuses=0xda
+644.bootloader.extended_fuses=0xfd
+644.bootloader.file=optiboot/optiboot_atmega644p.hex
+644.bootloader.unlock_bits=0x3F
+644.bootloader.lock_bits=0x0F
+
+644.build.mcu=atmega644p
+644.build.f_cpu=20000000L
+644.build.board=UNRECOVERABLE_AVR_644
+644.build.core=arduino:arduino
+644.build.variant=644duino
