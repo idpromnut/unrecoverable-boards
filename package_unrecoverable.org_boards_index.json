@@ -1,8 +1,8 @@
 {
 	"packages": [
 		{
-			"name": "unrecoverable.org",
-			"maintainer": "Unrecoverable.org",
+			"name": "Unrecoverable",
+			"maintainer": "Unrecoverable",
 			"websiteURL": "http://www.unrecoverable.org/",
 			"email": "chris@unrecoverable.org",
 
