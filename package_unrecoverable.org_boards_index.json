@@ -18,7 +18,7 @@
 					"url": "https://github.com/idpromnut/unrecoverable-boards/archive/v1.0.0.zip",
 					"archiveFileName": "unrecoverable-boards-1.0.0.zip",
 					"size": "33894",
-					"checksum": "SHA-256:f711881903d6281dba65759b04b605387733cf81758d91b6ddc358650e8dc0f3",
+					"checksum": "SHA-256:6f8e60dd451f683a35aa64c1955a23f845e20ff00d8965a10ac024a6263f923d",
 					"boards": [
 						{"name": "644duino"}
 					],
