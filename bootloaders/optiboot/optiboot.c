@@ -429,7 +429,8 @@ int main(void) {
 #endif
 
   // Adaboot no-wait mod
-  ch = MCUSR;
+  GPIOR0 = MCUSR;
+  ch = GPIOR0;
   MCUSR = 0;
   if (!(ch & _BV(EXTRF))) appStart(ch);
 
